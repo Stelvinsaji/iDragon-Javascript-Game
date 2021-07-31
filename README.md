@@ -1,4 +1,4 @@
-# DragonGame
+# iDragon-JSgame
 Created this game using HTML, CSS & JS.
 
 Description:
