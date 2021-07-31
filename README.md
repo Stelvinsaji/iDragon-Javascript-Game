@@ -1,3 +1,4 @@
+![iDragon - JavaScript Game](https://user-images.githubusercontent.com/87966154/127735111-1cc0ec91-505a-40df-ba1f-48dca402bdd7.png)
 # iDragon-JSgame
 Created this game using HTML, CSS & JS.
 
